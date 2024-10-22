@@ -13,7 +13,7 @@ I'm Brice Decaestecker, a curious software enginneer !
   + compilers / language design
   + network protocols and communication
   + embedded software
-  + Any new context is an occasion to learn and have fun !
+  + Any new context is an occasion to learn and thrive !
 
 - ✨ Some coding challenge and learning I try to complete
   + [Exercism](https://exercism.org/tracks) 12in23 and 42in24
