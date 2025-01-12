@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Brice Decaestecker, a curious software enginneer !
+I'm Brice Decaestecker
 
 - 🔭 I’m currently working on:
   + moving the software industry toward zero-default as a consultant at [Sogilis](https://sogilis.com/2024-a-propos-de-nous/)
@@ -13,7 +13,7 @@ I'm Brice Decaestecker, a curious software enginneer !
   + compilers / language design
   + network protocols and communication
   + embedded software
-  + Any new context is an occasion to learn and thrive !
+  + Any new context is an occasion to learn !
 
 - ✨ Some coding challenge and learning I try to complete
   + [Exercism](https://exercism.org/tracks) 12in23 and 42in24
