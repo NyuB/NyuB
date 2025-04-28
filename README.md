@@ -2,8 +2,7 @@
 I'm Brice Decaestecker
 
 - 🔭 I’m currently working on:
-  + moving the software industry toward zero-default as a consultant at [Sogilis](https://sogilis.com/2024-a-propos-de-nous/)
-  + [yadladoc](https://github.com/NyuB/yadladoc), a code documentation tool
+  + Suergery software and robotic solutions  at [eCential Robotics](https://www.ecential-robotics.com/)
   
 - 📫 You can reach me here on Github or on [Linkedin](https://www.linkedin.com/in/brice-decaestecker-92b85811b/) 
 
