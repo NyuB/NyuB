@@ -2,7 +2,7 @@
 I'm Brice Decaestecker
 
 - 🔭 I’m currently working on:
-  + Suergery software and robotic solutions  at [eCential Robotics](https://www.ecential-robotics.com/)
+  + Robotic solutions for surgery software at [eCential Robotics](https://www.ecential-robotics.com/)
   
 - 📫 You can reach me here on Github or on [Linkedin](https://www.linkedin.com/in/brice-decaestecker-92b85811b/) 
 
@@ -15,9 +15,7 @@ I'm Brice Decaestecker
   + Any new context is an occasion to learn !
 
 - ✨ Some coding challenge and learning I try to complete
-  + [Exercism](https://exercism.org/tracks) 12in23 and 42in24
   + [Project Euler](https://projecteuler.net/about)
-  
     ![profile-badge](https://projecteuler.net/profile/NyuB.png)
   + [Prolog P99](https://github.com/NyuB/prolog-p99)
   + Coq [LogicalFundation](https://github.com/NyuB/Coq-LogicalFoundation) exercises
