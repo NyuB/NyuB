@@ -2,7 +2,7 @@
 I'm Brice Decaestecker
 
 - 🔭 I’m currently working on:
-  + Robotic solutions for surgery software at [eCential Robotics](https://www.ecential-robotics.com/)
+  + Robotic solutions for bone surgery at [eCential Robotics](https://www.ecential-robotics.com/)
   
 - 📫 You can reach me here on Github or on [Linkedin](https://www.linkedin.com/in/brice-decaestecker-92b85811b/) 
 
