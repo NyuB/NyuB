@@ -18,4 +18,4 @@ I'm Brice Decaestecker
   + [Project Euler](https://projecteuler.net/about)
     ![profile-badge](https://projecteuler.net/profile/NyuB.png)
   + [Prolog P99](https://github.com/NyuB/prolog-p99)
-  + Coq [LogicalFundation](https://github.com/NyuB/Coq-LogicalFoundation) exercises
+  + Rocq [LogicalFundation](https://github.com/NyuB/Coq-LogicalFoundation) exercises
