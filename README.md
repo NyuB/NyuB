@@ -6,13 +6,12 @@ I'm Brice Decaestecker
   
 - 📫 You can reach me here on Github or on [Linkedin](https://www.linkedin.com/in/brice-decaestecker-92b85811b/) 
 
-- 🌱 I would be curious to work on/with
-  + functional languages
-  + event-driven architectures
+- 🌱 I would be curious to work on/with 
   + compilers / language design
+  + formal methods and testing harnesses
   + network protocols and communication
   + embedded software
-  + Any new context is an occasion to learn !
+  + Any new context is an occasion to learn, and beside technologies and intellectual emulation I'd like to work on any software that is of actual use and improving human beings' life
 
 - ✨ Some coding challenge and learning I try to complete
   + [Project Euler](https://projecteuler.net/about)
