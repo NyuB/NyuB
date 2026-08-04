@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Brice Decaestecker
+I'm Brice Decaestecker, a software enthusiast with a particular interest on testing methodologies
 
 - 🔭 I’m currently working on:
   + Robotic solutions for bone surgery at [eCential Robotics](https://www.ecential-robotics.com/)
